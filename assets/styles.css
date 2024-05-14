@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
-  background-color: rgb(5, 107, 107);
+  background-color: rgb(4, 4, 101);
 }
 
 .content {
